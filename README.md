@@ -1,5 +1,5 @@
 # BANK-MARKETING-Predicting-Whether-The-Customer-Will-Subscribe-To-Term-Deposit.
-Using Python,Pandas,Numpy,Sci-kit Learn,Machine Learning,Decision Tree,Jupyter Notebook
+Using Python,Pandas,Numpy,Sci-kit Learn,Machine Learning,Logistic Regression,Decision Tree,Jupyter Notebook
 
 
 Problem Statement
